@@ -37,7 +37,7 @@
             <h2>Dependencies</h2>
             <ul>
                 
-                <li><a href="https://jquery.com/">jQuery</a>: Used for handling button click events.</li>
+ <li><a href="https://jquery.com/">jQuery</a>: Used for handling button click events.</li>
             </ul>
         </section>
 
@@ -47,7 +47,7 @@
         </section>
 
  
-    </article>
+ </article>
 
 </body>
 
